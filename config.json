@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingpncrypt",
+        "uuid": 26014354,
+        "checksum": "fodb4j"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
